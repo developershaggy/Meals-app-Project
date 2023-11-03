@@ -12,7 +12,7 @@ This Project Includes the Searching of meals with their Recipe information. This
 
 -Dark/Light Theme mode
 
-- Local storage implementation
+-Local storage implementation
 
 -Random meal Suggestion
 
